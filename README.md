@@ -6,7 +6,7 @@ All codes are well written and clarified with easily understandable format.
 
 And also be free to contact me in my profile email to take any kind of help with codes.
 
-## Topics of Code
+## Topics of Codes
 
 - Arrays
 - Linked Lists
